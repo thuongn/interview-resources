@@ -1,4 +1,4 @@
-## Front-end Interview Questions And Problem Solvings, Part 2
+## Front-end Interview Questions And Problem Solvings
 
 - [Geekks for Geeks](http://geeksforgeeks.org/)
 
